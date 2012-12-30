@@ -1,4 +1,4 @@
 hangman-java
 ============
 
-Hangman game coded on JAVA
+Hangman game coded in JAVA
